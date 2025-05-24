@@ -1,0 +1,2023 @@
+
+PHP Version: 7.4.33
+Loaded ini: 
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: 
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server
+PHP Version: 7.4.33
+Loaded ini: C:\Users\31989\Desktop\专业学习\专业实训\后端开发\后端开发\php\php.ini
+SAPI: cli-server

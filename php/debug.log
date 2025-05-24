@@ -1,0 +1,5944 @@
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=8
+GET: Array
+(
+    [id] => 8
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=5
+GET: Array
+(
+    [id] => 5
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=3
+GET: Array
+(
+    [id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=3
+GET: Array
+(
+    [id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=3
+GET: Array
+(
+    [id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=3
+GET: Array
+(
+    [id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=3
+GET: Array
+(
+    [id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=5
+GET: Array
+(
+    [category_id] => 5
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=6
+GET: Array
+(
+    [category_id] => 6
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=1
+GET: Array
+(
+    [category_id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=5
+GET: Array
+(
+    [category_id] => 5
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=1
+GET: Array
+(
+    [category_id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=1
+GET: Array
+(
+    [category_id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=5
+GET: Array
+(
+    [category_id] => 5
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=1
+GET: Array
+(
+    [category_id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=1
+GET: Array
+(
+    [category_id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=4
+GET: Array
+(
+    [category_id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=5
+GET: Array
+(
+    [category_id] => 5
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=8
+GET: Array
+(
+    [category_id] => 8
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=3
+GET: Array
+(
+    [id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=8
+GET: Array
+(
+    [category_id] => 8
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=1
+GET: Array
+(
+    [category_id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=9
+GET: Array
+(
+    [id] => 9
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=4
+GET: Array
+(
+    [category_id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=10
+GET: Array
+(
+    [id] => 10
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=9
+GET: Array
+(
+    [id] => 9
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=4
+GET: Array
+(
+    [category_id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=7
+GET: Array
+(
+    [id] => 7
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=7
+GET: Array
+(
+    [category_id] => 7
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=10
+GET: Array
+(
+    [id] => 10
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=7
+GET: Array
+(
+    [id] => 7
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=7
+GET: Array
+(
+    [category_id] => 7
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=7
+GET: Array
+(
+    [category_id] => 7
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=7
+GET: Array
+(
+    [category_id] => 7
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=6
+GET: Array
+(
+    [category_id] => 6
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=7
+GET: Array
+(
+    [category_id] => 7
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=7
+GET: Array
+(
+    [category_id] => 7
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=9
+GET: Array
+(
+    [id] => 9
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=3
+GET: Array
+(
+    [id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=3
+GET: Array
+(
+    [id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=5
+GET: Array
+(
+    [category_id] => 5
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=4
+GET: Array
+(
+    [category_id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=9
+GET: Array
+(
+    [id] => 9
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=9
+GET: Array
+(
+    [id] => 9
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=1
+GET: Array
+(
+    [id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=9
+GET: Array
+(
+    [id] => 9
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=3
+GET: Array
+(
+    [id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=3
+GET: Array
+(
+    [id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=1
+GET: Array
+(
+    [category_id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=9
+GET: Array
+(
+    [id] => 9
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=9
+GET: Array
+(
+    [id] => 9
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=1
+GET: Array
+(
+    [category_id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=2
+GET: Array
+(
+    [category_id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=4
+GET: Array
+(
+    [category_id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=5
+GET: Array
+(
+    [category_id] => 5
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=6
+GET: Array
+(
+    [category_id] => 6
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=7
+GET: Array
+(
+    [category_id] => 7
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=8
+GET: Array
+(
+    [category_id] => 8
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=9
+GET: Array
+(
+    [id] => 9
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=2
+GET: Array
+(
+    [id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=10
+GET: Array
+(
+    [id] => 10
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?search=web
+GET: Array
+(
+    [search] => web
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?search=python
+GET: Array
+(
+    [search] => python
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=5
+GET: Array
+(
+    [category_id] => 5
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=2
+GET: Array
+(
+    [category_id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=12
+GET: Array
+(
+    [id] => 12
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=6
+GET: Array
+(
+    [category_id] => 6
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=7
+GET: Array
+(
+    [category_id] => 7
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=12
+GET: Array
+(
+    [id] => 12
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?my=1
+GET: Array
+(
+    [my] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=11
+GET: Array
+(
+    [id] => 11
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?my=1
+GET: Array
+(
+    [my] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=4
+GET: Array
+(
+    [id] => 4
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=trending
+GET: Array
+(
+    [type] => trending
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=trending
+GET: Array
+(
+    [type] => trending
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=1
+GET: Array
+(
+    [category_id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=2
+GET: Array
+(
+    [category_id] => 2
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?my=1
+GET: Array
+(
+    [my] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?my=1
+GET: Array
+(
+    [my] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?my=1
+GET: Array
+(
+    [my] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended&search=%E6%B5%8B%E8%AF%95
+GET: Array
+(
+    [type] => recommended
+    [search] => 测试
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended&search=python
+GET: Array
+(
+    [type] => recommended
+    [search] => python
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=trending
+GET: Array
+(
+    [type] => trending
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=1
+GET: Array
+(
+    [category_id] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=13
+GET: Array
+(
+    [id] => 13
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?my=1
+GET: Array
+(
+    [my] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?my=1
+GET: Array
+(
+    [my] => 1
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=14
+GET: Array
+(
+    [id] => 14
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?category_id=3
+GET: Array
+(
+    [category_id] => 3
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?id=14
+GET: Array
+(
+    [id] => 14
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
+Request: GET /api/articles.php?type=recommended
+GET: Array
+(
+    [type] => recommended
+)
+
+POST: Array
+(
+)
+
